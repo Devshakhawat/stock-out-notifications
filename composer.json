@@ -1,0 +1,13 @@
+{
+    "name": "shakhawat/stock-out-notifications",
+    "description": "this is test plugin",
+    "type": "wordpress-plugin",
+    "license": "gplv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wpcommerz\\": "includes/"
+        }
+    }
+}
